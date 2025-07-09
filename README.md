@@ -1,1 +1,1 @@
-# test-images
+# imgproxy test images
